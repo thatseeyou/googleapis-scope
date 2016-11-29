@@ -3,7 +3,9 @@ List Google APIs grouped by scope
 
 # installation
 $ git clone git@github.com:thatseeyou/googleapis-scope.git
+
 $ cd googleapis-scope
+
 $ npm install
 
 # run
